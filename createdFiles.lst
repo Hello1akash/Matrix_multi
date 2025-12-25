@@ -1,0 +1,7 @@
+api\MatrixMultiplyWorker.class
+worker\MatrixMultiplyWorkerImpl.class
+master\MasterClient.class
+master\WorkerConfig.class
+common\MatrixUtils.class
+master\MasterClient$ChunkResult.class
+worker\WorkerServer.class
